@@ -1,0 +1,1 @@
+i used sql in this project to create a database from scratch that includes all the functions an ice cream parlor would need. including a employess table, vendors table, ingredients table and more. than i used select and alter statments to test the data and modify it. 
